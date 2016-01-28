@@ -1,0 +1,15 @@
+div{
+	background-color: #9c9c9c;
+	border:1px solid black;
+	width:100px;
+	height: 100px;
+	margin: 10px;
+}
+.tadeo{
+display: inline-block;
+}
+.leonardo{
+	width: 400px;
+	height: 120px;
+	margin-top:20px;
+}
